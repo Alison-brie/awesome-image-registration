@@ -57,9 +57,9 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### Update log
 
-*Last updated: 2025/08/20*
+*Last updated: 2025/09/21*
 
-*2025/08/20* - update recent papers
+*2025/09/21* - update recent papers
 
 *2025/04/25* - update recent papers and add the repository link of [Awesome-Medical-Image-Registration](https://github.com/Alison-brie/Awesome-Medical-Image-Registration)
 
