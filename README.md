@@ -103,33 +103,31 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 [[MICCAI](https://arxiv.org/pdf/2503.08802)] Deformable Registration Framework for Augmented Reality-based Surgical Guidance in Head and Neck Tumor Resection
 
-[[MICCAI]()] Vascular Photoacoustic Volume Registration via 2D Feature Matching with Reverse Mapping Based on Maximum Intensity Projection 
+[[MICCAI](https://papers.miccai.org/miccai-2025/paper/0431_paper.pdf)] Vascular Photoacoustic Volume Registration via 2D Feature Matching with Reverse Mapping Based on Maximum Intensity Projection 
 
-[[MICCAI]()] PromptReg: Universal Medical Image Registration via Task Prompt Learning and Domain Knowledge Transfer
+[[MICCAI](https://papers.miccai.org/miccai-2025/paper/1233_paper.pdf)] PromptReg: Universal Medical Image Registration via Task Prompt Learning and Domain Knowledge Transfer
 
-[[MICCAI]()] EUReg: End-to-end Framework for Efficient 2D-3D Ultrasound Registration
+[[MICCAI](https://papers.miccai.org/miccai-2025/paper/1387_paper.pdf)] EUReg: End-to-end Framework for Efficient 2D-3D Ultrasound Registration
 
-[[MICCAI]()] EG-Net: An Edge-Guided Network for Rigid Registration of Laparoscopic Low-Overlap Point Clouds
+[[MICCAI](https://papers.miccai.org/miccai-2025/paper/1387_paper.pdf)] EG-Net: An Edge-Guided Network for Rigid Registration of Laparoscopic Low-Overlap Point Clouds
 
-[[MICCAI]()] DGMIR: Dual-Guided Multimodal Medical Image Registration based on Multi-view Augmentation and On-site Modality Removal
+[[MICCAI](https://papers.miccai.org/miccai-2025/paper/1691_paper.pdf)] DGMIR: Dual-Guided Multimodal Medical Image Registration based on Multi-view Augmentation and On-site Modality Removal
 
-[[MICCAI]()] Weakly-Supervised 2D/3D Image Registration via Differentiable X-ray Rendering and ROI Segmentation
+[[MICCAI](https://papers.miccai.org/miccai-2025/paper/2022_paper.pdf)] Weakly-Supervised 2D/3D Image Registration via Differentiable X-ray Rendering and ROI Segmentation
 
-[[MICCAI]()] RDMR: Recursive Inference and Representation Disentanglement for Multimodal Large Deformation Registration
+[[MICCAI](https://papers.miccai.org/miccai-2025/paper/2376_paper.pdf)] RDMR: Recursive Inference and Representation Disentanglement for Multimodal Large Deformation Registration
 
-[[MICCAI]()] LDDMEm: Large Deformation Diffeomorphic Metric Embedding Decoupling Shape Analysis from Image Registration
+[[MICCAI](https://papers.miccai.org/miccai-2025/paper/3223_paper.pdf)] LDDMEm: Large Deformation Diffeomorphic Metric Embedding Decoupling Shape Analysis from Image Registration
 
-[[MICCAI]()] RadGS-Reg: Registering Spine CT with Biplanar X-rays via Joint 3D Radiative Gaussians Reconstruction and 3D/3D Registration
+[[MICCAI](https://arxiv.org/pdf/2508.21154)] RadGS-Reg: Registering Spine CT with Biplanar X-rays via Joint 3D Radiative Gaussians Reconstruction and 3D/3D Registration
 
-[[MICCAI]()] Towards Patient-Specific Deformable Registration in Laparoscopic Surgery
+[[MICCAI](https://papers.miccai.org/miccai-2025/paper/3372_paper.pdf)] Towards Patient-Specific Deformable Registration in Laparoscopic Surgery
 
 [[MICCAI]()] Structure-Preserve Expansion for Medical Image Registration with Minimal Overlap
 
-[[MICCAI]()] Gaussian Primitive Optimized Deformable Retinal Image Registration
+[[MICCAI](https://arxiv.org/pdf/2508.16852)] Gaussian Primitive Optimized Deformable Retinal Image Registration
 
-[[MICCAI]()] Unsupervised OCT image interpolation using deformable registration and generative models
-
-[[MICCAI]()] Probabilistic Inverse Consistent Image Registration Using Sparse Bayesian Network
+[[MICCAI](https://papers.miccai.org/miccai-2025/paper/4995_paper.pdf)] Probabilistic Inverse Consistent Image Registration Using Sparse Bayesian Network
 
 [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/32251)] Bridge 2D-3D: Uncertainty-aware Hierarchical Registration Network with Domain Alignment.
 
